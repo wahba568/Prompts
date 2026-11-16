@@ -4,6 +4,7 @@
 |---|---|---|---|---|
 | [3d-home-tour-from-floor-plan](sets/3d-home-tour-from-floor-plan/v1.md) | 2026-11-15 | v1 | 6.5 | needs v2 |
 | [3d-city-district-flyover](sets/3d-city-district-flyover/v1.md) | 2026-11-15 | v1 | 7.2 | needs v2 |
+| [floor-plan-walkthrough-harsh-critic](sets/floor-plan-walkthrough-harsh-critic/v1.md) | 2026-11-16 | v1 | 8.2 | needs metric v2 |
 
 ## Sources to watch
 - @godofprompt (Instagram) — see sets/3d-city-district-flyover/notes.md for uncaptured relevant posts
