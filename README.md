@@ -1,3 +1,5 @@
+> **FROZEN 2026-11-16 — read only.** Library moved to `wahba568/taaq-workspace` → `prompts/` (owner: الترجمان). Do not write here.
+
 # Prompts Library — M. WAHBA
 
 AI prompts Mohamed collects to keep, test and improve.
